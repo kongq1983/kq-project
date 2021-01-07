@@ -5,7 +5,7 @@ package com.kq.common.extension;
  * @date 2021-01-06 17:16
  * @since 2020-0630
  */
-@SPI
+@SPI("spi")
 public interface ExtensionFactory {
 
     /**

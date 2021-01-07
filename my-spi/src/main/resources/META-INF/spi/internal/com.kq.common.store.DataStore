@@ -1,0 +1,3 @@
+nosql=com.kq.common.store.support.NoSqlDataStore
+adaptive=com.kq.common.store.support.DbDataStore
+db=com.kq.common.store.support.DbDataStore

@@ -1,0 +1,3 @@
+adaptive=com.kq.common.extension.factory.AdaptiveDataStore
+spi=com.kq.common.extension.factory.SpiExtensionFactory
+my=com.kq.common.extension.factory.MyExtensionFactory
