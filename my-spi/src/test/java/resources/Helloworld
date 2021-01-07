@@ -1,0 +1,26 @@
+package resources;
+
+/**
+ * @author kq
+ * @date 2021-01-06 18:42
+ * @since 2020-0630
+ */
+public class Helloworld {
+
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return "Helloworld{" +
+                "name='" + name + '\'' +
+                '}';
+    }
+}
